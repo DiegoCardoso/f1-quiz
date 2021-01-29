@@ -1,0 +1,98 @@
+{
+  "bg": "https://wallpaperaccess.com/full/2014177.jpg",
+  "title": "F1 Quiz",
+  "description": "Teste os seus conhecimentos sobre Fórmula 1 e vamos ver quantos layouts você vai deixar de quebrar",
+  "questions": [
+    {
+      "image": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2020/04/08104105/F1-start-Brazil.jpg",
+      "title": "Qual corredor correu o maior número de provas?",
+      "description": "Pra começar tranquilo",
+      "answer": 2,
+      "alternatives": [
+        "Rubens Barrichello",
+        "Fernando Alonso",
+        "Kimi Räikkönen",
+        "Jenson Button"
+      ]
+    },
+    {
+      "image": "https://www.racefans.net/wp-content/uploads/2020/03/racefansdotnet-20200330-120450-1.jpg",
+      "title": "Piloto mais jovem a começar uma prova?",
+      "description": "Os novinhos",
+      "answer": 1,
+      "alternatives": [
+         "Lance Stroll",
+         "Max Verstappen",
+         "Lando Norris",
+         "Daniil kyvat"
+      ]
+    },
+    {
+      "image": "https://i0.wp.com/f1lead.com/wp-content/uploads/2020/01/f1lead_f12020_formula_1_grand_prix_GP_F1_F1-2020-THE-CHEQUERED-FLAG-IS-BACK.jpg?w=1200&ssl=1",
+      "title": "Quem possui o maior número de vitórias?",
+      "description": "🏁 #1",
+      "answer": 3,
+      "alternatives": [
+         "Ayrton Senna",
+         "Sebastian Vettel",
+         "Michael Schumacher",
+         "Lewis Hamilton"
+      ]
+    },
+    {
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4af76ae2-7f5c-4a42-8afa-5caf322adeee/d6lqtli-7501bc92-1483-4ed9-83a1-64ef1b3bf54e.jpg/v1/fill/w_1024,h_614,q_75,strp/1976_brazilian_grand_prix_start_by_f1_history_d6lqtli-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02MTQiLCJwYXRoIjoiXC9mXC80YWY3NmFlMi03ZjVjLTRhNDItOGFmYS01Y2FmMzIyYWRlZWVcL2Q2bHF0bGktNzUwMWJjOTItMTQ4My00ZWQ5LTgzYTEtNjRlZjFiM2JmNTRlLmpwZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.2MuCV9q_OcpxCKOvLhi7zXhNhRCosKcHxdgJK_0xko0",
+      "title": "Em que ano foi realizado o primeiro GP do Brasil?",
+      "description": "Essa é difícil",
+      "answer": 1,
+      "alternatives": [
+         "1970",
+         "1972",
+         "1975",
+         "1977"
+      ]
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Grand_Prix_Monaco96_131954710.jpg/2560px-Grand_Prix_Monaco96_131954710.jpg",
+      "title": "Quem é o maior vencedor do GP de Mônaco?",
+      "description": "O Rei de Mônaco",
+      "answer": 2,
+      "alternatives": [
+         "Graham Hill",
+         "Michael Schumacher",
+         "Ayrton Senna",
+         "Alain Prost"
+      ]
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ayrton_Senna_with_toy_car_cropped_no_wm.jpg",
+      "title": "Quantas vezes Ayrton Senna venceu o GP de Mônaco?",
+      "description": "Agora que você já sabe que ele é o maior vencedor 😉",
+      "answer": 2,
+      "alternatives": [
+         "4",
+         "5",
+         "6",
+         "7"
+      ]
+    }
+  ],
+  "external": [
+    ""
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#BD0000",
+      "secondary": "#F7D31D",
+      "mainBg": "#5F2423",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px",
+    "sizes": {
+      "small": "8px",
+      "medium": "16px",
+      "large": "24px"
+    }
+  }
+}
