@@ -50,7 +50,7 @@ export default function App({ Component, pageProps }) {
             <Component {...pageProps} />
             <Footer />
           </QuizContainer>
-          <GitHubCorner projectUrl="https://github.com/diegocardoso" />
+          <GitHubCorner projectUrl="https://github.com/DiegoCardoso/f1-quiz" />
         </QuizBackground>
       </ThemeProvider>
     </>
